@@ -17,7 +17,7 @@ A plataforma permite:
 
 ---
 
-## 🚀 Tecnologias que serãUtilizadas
+## 🚀 Tecnologias que serão utilizadas
 
 ### Front-end
 - React.js  
