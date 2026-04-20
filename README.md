@@ -103,9 +103,13 @@ Principais entidades:
 
 ## 👥 Autores
 
-Seu Nome  
-Equipe do Projeto
-
+Guilherme Soares Ribeiro
+Gustavo dos Santos ALves
+Lucas Fernandes Fortuna Lourenço
+Lucas de Souza Guerra
+Lucas Soares Pires
+Jeann Felipe Moreira Leite
+Icaro Vinnicius Dias Monteiro
 ---
 
 ## 📄 Licença
