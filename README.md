@@ -103,15 +103,12 @@ Principais entidades:
 
 ## 👥 Autores
 
-Guilherme Soares Ribeiro
-Gustavo dos Santos ALves
-Lucas Fernandes Fortuna Lourenço
-Lucas de Souza Guerra
-Lucas Soares Pires
-Jeann Felipe Moreira Leite
-Icaro Vinnicius Dias Monteiro
----
+- Guilherme Soares Ribeiro
+- Gustavo dos Santos ALves
+- Lucas Fernandes Fortuna Lourenço
+- Lucas de Souza Guerra
+- Lucas Soares Pires
+- Jeann Felipe Moreira Leite
+- Icaro Vinnicius Dias Monteiro
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT.
